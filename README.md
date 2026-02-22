@@ -7,7 +7,7 @@ Este proyecto consiste en el desarrollo de una calculadora en Python que registr
 
 El sistema permite realizar operaciones básicas como suma, resta, multiplicación y división. Cada resultado se guarda junto con la expresión completa de la operación (por ejemplo: `5 + 3 = 8`), lo que facilita la consulta posterior del historial.
 
-El programa funciona mediante un menú interactivo en consola que permite realizar múltiples operaciones sin reiniciar el sistema, mostrando el historial acumulado en cualquier momento.
+El programa funciona mediante un menú interactivo en consola que permite realizar múltiples operaciones sin reiniciar el sistema, mostrando el historial acumulado en cualquier momento. Esta estructura facilita una experiencia continua y dinámica para el usuario, ya que puede alternar entre realizar nuevos cálculos y consultar registros anteriores de manera sencilla.
 
 #
 ### 🧑‍💻 Lenguaje de programacion
